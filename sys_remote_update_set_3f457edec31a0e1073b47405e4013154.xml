@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2024-05-23 13:47:27">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Vega Theme">7c41aa92c3d60e1073b47405e4013125</application>
+<application_name>Vega Theme</application_name>
+<application_scope>x_515030_vega</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Contains a Purple Darkmode Theme</description>
+<inserted/>
+<name>Vega Theme 1.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>8941aa92c3d60e1073b47405e401312a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-05-23 13:47:26</sys_created_on>
+<sys_id>3f457edec31a0e1073b47405e4013154</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-05-23 13:47:26</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Vega Theme">7c41aa92c3d60e1073b47405e4013125</application>
+<category>customer</category>
+<comments/>
+<name>m2m_theme_style_8beca296c31a0e1073b47405e401318a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_theme_style"><m2m_theme_style action="INSERT_OR_UPDATE"><applicability/><order>0</order><style display_value="Vega">c3dc2656c31a0e1073b47405e401318b</style><sys_class_name>m2m_theme_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-23 13:10:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8beca296c31a0e1073b47405e401318a</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Vega Theme" source="x_515030_vega">7c41aa92c3d60e1073b47405e4013125</sys_package><sys_policy/><sys_scope display_value="Vega Theme">7c41aa92c3d60e1073b47405e4013125</sys_scope><sys_update_name>m2m_theme_style_8beca296c31a0e1073b47405e401318a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-23 13:10:58</sys_updated_on><theme display_value="Polaris">31bf91ae07203010e03948f78ad30095</theme></m2m_theme_style></record_update>]]></payload>
+<payload_hash>1812962096</payload_hash>
+<remote_update_set display_value="Vega Theme 1.0">3f457edec31a0e1073b47405e4013154</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-05-23 13:47:26</sys_created_on>
+<sys_id>33457edec31a0e1073b47405e4013155</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18fa59380160000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-05-23 13:47:26</sys_updated_on>
+<table/>
+<target_name/>
+<type>UX Theme Style</type>
+<update_domain>global</update_domain>
+<update_guid>e5fc62968d1a0e10d4761a9215e9ba2e</update_guid>
+<update_guid_history>e5fc62968d1a0e10d4761a9215e9ba2e:1812962096</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Vega Theme">7c41aa92c3d60e1073b47405e4013125</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_7c41aa92c3d60e1073b47405e4013125</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>none</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><ide_created>DS</ide_created><installed_as_dependency>false</installed_as_dependency><js_level>es_latest</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>Vega Theme</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_515030_vega</scope><scoped_administration>false</scoped_administration><short_description/><source>x_515030_vega</source><store_correlation_id/><store_url/><subscription_entitlement/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-23 12:19:51</sys_created_on><sys_id>7c41aa92c3d60e1073b47405e4013125</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-23 12:19:51</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app><sys_translated_text action="delete_multiple" query="documentkey=7c41aa92c3d60e1073b47405e4013125"/></record_update>]]></payload>
+<payload_hash>-1742692509</payload_hash>
+<remote_update_set display_value="Vega Theme 1.0">3f457edec31a0e1073b47405e4013154</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-05-23 13:47:26</sys_created_on>
+<sys_id>3b457edec31a0e1073b47405e4013155</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18fa564b7da0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-05-23 13:47:26</sys_updated_on>
+<table/>
+<target_name>Vega Theme</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>c1416e965dd60e109dbfff4a59adfa51</update_guid>
+<update_guid_history>c1416e965dd60e109dbfff4a59adfa51:-1742692509</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Vega Theme">7c41aa92c3d60e1073b47405e4013125</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_style_c3dc2656c31a0e1073b47405e401318b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style"><sys_ux_style action="INSERT_OR_UPDATE"><name>Vega</name><style>{&#13;
+    "isDark": "true",&#13;
+    "base": {&#13;
+        "--now-color--neutral": "166,173,185",&#13;
+        "--now-color--neutral-0": "220, 220, 235",&#13;
+        "--now-color--neutral-1": "164, 164, 203",&#13;
+        "--now-color--neutral-2": "164, 164, 203",&#13;
+        "--now-color--neutral-3": "41, 41, 46",&#13;
+        "--now-color--neutral-4": "220, 220, 235",&#13;
+        "--now-color--neutral-5": "204, 203, 213",&#13;
+        "--now-color--neutral-6": "219, 219, 234",&#13;
+        "--now-color--neutral-21": "183, 190, 216",&#13;
+        "--now-color--primary": "48,58,70",&#13;
+        "--now-color--primary-0": "148, 149, 195",&#13;
+        "--now-color--primary-1": "--now-button--bare_primary--color",&#13;
+        "--now-color--secondary": "69,84,100",&#13;
+        "--now-color--interactive": "136,166,255",&#13;
+        "--now-color--interactive-0": "52, 59, 82",&#13;
+        "--now-color--link": "187, 204, 255",&#13;
+        "--now-text-link--secondary--color": "131, 143, 186",&#13;
+        "--now-color_alert--critical": "151, 49, 37",&#13;
+        "--now-color_alert--high": "133, 45, 17",&#13;
+        "--now-color_alert--warning": "129,118,0",&#13;
+        "--now-color_alert--moderate": "123,86,255",&#13;
+        "--now-color_alert--info": "148, 149, 195",&#13;
+        "--now-color_alert--positive": "63,133,39",&#13;
+        "--now-color_alert--low": "113,118,129",&#13;
+        "--now-color_selection--primary": "175,181,188",&#13;
+        "--now-color_selection--secondary": "107,111,114",&#13;
+        "--now-color_surface--brand": "69,84,100",&#13;
+        "--now-color_surface--neutral-3": "45, 44, 48",&#13;
+        "--now-color_surface--neutral-5": "--now-color--secondary",&#13;
+        "--now-color_chrome--brand": "69,84,100",&#13;
+        "--now-color_chrome--divider": "78,80,83",&#13;
+        "--now-color_brand--secondary": "45, 50, 79",&#13;
+        "--now-color_grouped--blue": "0,130,151",&#13;
+        "--now-color_grouped--brown": "167,104,21",&#13;
+        "--now-color_grouped--gray": "108,121,121",&#13;
+        "--now-color_grouped--green": "55,134,68",&#13;
+        "--now-color_grouped--green-yellow": "111,126,0",&#13;
+        "--now-color_grouped--green-yellow-2": "218, 209, 30",&#13;
+        "--now-color_grouped--magenta": "195,67,153",&#13;
+        "--now-color_grouped--orange": "202,77,52",&#13;
+        "--now-color_grouped--pink": "195,77,112",&#13;
+        "--now-color_grouped--purple": "162,77,221",&#13;
+        "--now-color_grouped--teal": "0,131,131",&#13;
+        "--now-color_grouped--yellow": "143,116,0",&#13;
+        "--now-color_grouped--yellow-0": "75, 75, 33"&#13;
+    },&#13;
+    "properties": {&#13;
+        "--now-tooltip--color": "--now-color--neutral-6",&#13;
+        "--now-tooltip--border-width": "1px",&#13;
+&#13;
+        "--now-unified-nav_menu-filter-result--color": "--now-color--neutral-6",&#13;
+        "--now-unified-nav_menu-filter-result--color--hover": "--now-color--link",&#13;
+        "--now-unified-nav_favorite-icon--color": "255,219,146",&#13;
+        "--now-unified-nav_header--background-color": "--now-color_brand--secondary",&#13;
+        "--now-unified-nav_header--color": "224, 224, 237",&#13;
+        "--now-unified-nav_menu--background-color": "--now-color_brand--secondary",&#13;
+        "--now-unified-nav_button--color--hover": "138, 131, 167",&#13;
+        "--now-unified-nav_menu-filter--background-color--opened": "--unified_nav-input--background-color",&#13;
+        "--now-unified-nav_menu-filter--background-color": "--now-color_chrome--brand-8",&#13;
+        "--now-unified-nav_menu-filter--color": "--now-color--interactive",&#13;
+        "--now-unified-nav_menu-filter--color--placeholder": "224, 224, 237",&#13;
+        "--now-unified-nav_menu-filter--color--placeholder--focus": "--now-color--neutral-10",&#13;
+        "--now-unified-nav_menu-filter--color--opened": "224, 224, 237",&#13;
+        "--now-unified-nav_menu-filter-result-mark--color--hover": "--now-unified-nav_menu-item--color--hover",&#13;
+        "--now-unified-nav_menu-filter-result-mark--color": "--now-unified-nav_menu-item--color",&#13;
+        "--now-unified-nav_menu-item--background-color--hover": "--now-color_chrome--brand-6",&#13;
+        "--now-unified-nav_menu-sublabel--color" : "206, 206, 220",&#13;
+        "--now-unified-nav_menu-item--color": "--now-color--neutral-5",&#13;
+        "--now-unified-nav_menu-subitem--color": "--now-color--neutral-5",&#13;
+        "--now-unified-nav_utility-menu-trigger--background-color--hover": "--now-unified-nav_nav-menu-trigger--background-color--hover",&#13;
+        "--now-unified-nav_nav-menu-trigger--color--hover": "--now-unified-nav_nav-menu-trigger--color",&#13;
+        "--now-unified-nav_nav-menu-trigger--background-color": "--now-color_text--primary",&#13;
+        "--now-unified-nav_utility-menu-trigger--color--hover": "--now-unified-nav_utility-menu-trigger--color",&#13;
+        "--unified_nav-input--background-color": "44, 46, 56",&#13;
+&#13;
+        "--now-color_focus-ring": "118, 139, 198",&#13;
+        "--now-unified-nav_focus-ring--color": "118, 139, 198",&#13;
+&#13;
+        "--now-tabs--border-color--selected": "--now-button--bare_primary--color",&#13;
+        "--now-tabs--color--selected": "--now-button--bare_primary--color",&#13;
+&#13;
+        &#13;
+        "--now-checkbox--background-color--checked": "183, 189, 200",&#13;
+        "--now-checkbox--border-color--readonly": "130, 136, 146",&#13;
+        "--now-checkbox--background-color--checked_readonly": "130, 136, 146",&#13;
+&#13;
+        "--now-color_background--primary": "33,33,33",&#13;
+        "--now-color_background--secondary": "26,26,26",&#13;
+        "--now-color_background--tertiary": "40, 45, 50",&#13;
+&#13;
+        "--now-color_brand--secondary": "41, 42, 60",&#13;
+&#13;
+        "--now-color_text--primary": "219, 219, 234",&#13;
+        "--now-color_text--secondary": "183, 183, 195",&#13;
+&#13;
+        "--now-form-field--border-color--focus": "118, 139, 198",&#13;
+        "--now-form-field--border-color": "137, 142, 153",&#13;
+        "--now-form-field--background-color--hover": "57, 68, 94",&#13;
+&#13;
+        "--now-alert--critical--color": "--now-color_alert--critical-5",&#13;
+        "--now-alert--high--color": "--now-color_alert--high-5",&#13;
+        "--now-alert--info--color": "--now-color_alert--info-5",&#13;
+        "--now-alert--low--color": "--now-color_alert--low-5",&#13;
+        "--now-alert--moderate--color": "--now-color_alert--moderate-5",&#13;
+        "--now-alert--positive--color": "--now-color_alert--positive-5",&#13;
+        "--now-alert--warning--color": "--now-color_alert--warning-5",&#13;
+&#13;
+        "--now-breadcrumbs_dropdown--background-color--active": "--now-color--neutral-7",&#13;
+        "--now-breadcrumbs_dropdown--background-color--hover": "--now-color--neutral-7",&#13;
+&#13;
+        "--now-popover--border-color": "190,196,207",&#13;
+&#13;
+        "--now-button--primary--color": "48,58,70",&#13;
+        "--now-button--secondary--color": "138, 154, 198",&#13;
+        "--now-button--bare_primary--color": "159, 181, 245",&#13;
+&#13;
+        "--now-datavis_color_chart--primary": "--now-color--neutral-16",&#13;
+        "--now-datavis_color_chart--secondary": "--now-color--neutral-10",&#13;
+        "--now-datavis_color_chart--tertiary": "--now-color--neutral-8",&#13;
+&#13;
+        "--now-datavis_color_label--primary": "--now-color--neutral-0",&#13;
+        "--now-datavis_color_label--secondary": "--now-color--neutral-4",&#13;
+        "--now-datavis_color_label--tertiary": "--now-color--neutral-7",&#13;
+&#13;
+        "--now-datavis_color_layer--primary": "--now-color--neutral-10",&#13;
+        "--now-datavis_color_layer--quad": "--now-color--neutral-0",&#13;
+        "--now-datavis_color_layer--secondary": "--now-color--neutral-8",&#13;
+        "--now-datavis_color_layer--tertiary": "--now-color--neutral-6",&#13;
+&#13;
+        "--now-datavis_color--accessibility-0": "--now-color--neutral-20",&#13;
+        "--now-datavis_color--accessibility-10": "--now-color--neutral-0",&#13;
+        "--now-datavis_color--accessibility-2": "--now-color--neutral-14",&#13;
+&#13;
+        "--now-date-time_cell--background-color--range_active": "--now-color_selection--secondary-0",&#13;
+        "--now-date-time_cell--color--range_active": "--now-date-time_cell--color--range",&#13;
+&#13;
+        "--now-dropdown-list--background-color-alpha--focus": "1",&#13;
+&#13;
+        "--now-opacity--least": "0.2",&#13;
+        "--now-opacity--less": "0.35",&#13;
+&#13;
+        "--now-pill--color--selected": "--now-color_text--primary",&#13;
+&#13;
+        "--now-toolbar-nav--background-color-end": "--now-color_surface--brand-5",&#13;
+        "--now-toolbar-nav--background-color-start": "--now-color_brand--secondary",&#13;
+        "--now-canvas-toolbar-button--color" : "--now-color--interactive",&#13;
+        "--now-canvas-toolbar-button--color--focus": "--now-button--bare_primary--color",&#13;
+&#13;
+        "--now-datavis_color--primary": "--now-color--neutral-20",&#13;
+        "--now-datavis_color--blue-0": "30,59,82",&#13;
+        "--now-datavis_color--blue-1": "40,77,108",&#13;
+        "--now-datavis_color--blue-2": "50,95,134",&#13;
+        "--now-datavis_color--blue-3": "58,115,161",&#13;
+        "--now-datavis_color--blue-4": "66,131,184",&#13;
+        "--now-datavis_color--blue-5": "77,149,209",&#13;
+        "--now-datavis_color--blue-6": "105,166,216",&#13;
+        "--now-datavis_color--blue-7": "129,181,223",&#13;
+        "--now-datavis_color--blue-8": "158,197,230",&#13;
+        "--now-datavis_color--blue-9": "182,212,237",&#13;
+        "--now-datavis_color--blue-10": "210,229,244",&#13;
+        "--now-datavis_color--brown-0": "69,42,33",&#13;
+        "--now-datavis_color--brown-1": "90,55,42",&#13;
+        "--now-datavis_color--brown-2": "111,68,52",&#13;
+        "--now-datavis_color--brown-3": "132,81,62",&#13;
+        "--now-datavis_color--brown-4": "156,95,73",&#13;
+        "--now-datavis_color--brown-5": "176,108,84",&#13;
+        "--now-datavis_color--brown-6": "186,130,109",&#13;
+        "--now-datavis_color--brown-7": "198,151,134",&#13;
+        "--now-datavis_color--brown-8": "212,174,161",&#13;
+        "--now-datavis_color--brown-9": "223,195,185",&#13;
+        "--now-datavis_color--brown-10": "236,219,213",&#13;
+        "--now-datavis_color--green-0": "28,63,31",&#13;
+        "--now-datavis_color--green-1": "37,85,42",&#13;
+        "--now-datavis_color--green-2": "46,102,51",&#13;
+        "--now-datavis_color--green-3": "55,123,62",&#13;
+        "--now-datavis_color--green-4": "62,142,70",&#13;
+        "--now-datavis_color--green-5": "73,162,82",&#13;
+        "--now-datavis_color--green-6": "100,175,108",&#13;
+        "--now-datavis_color--green-7": "127,189,133",&#13;
+        "--now-datavis_color--green-8": "154,203,159",&#13;
+        "--now-datavis_color--green-9": "181,217,184",&#13;
+        "--now-datavis_color--green-10": "208,231,211",&#13;
+        "--now-datavis_color--olive-0": "56,63,28",&#13;
+        "--now-datavis_color--olive-1": "75,85,37",&#13;
+        "--now-datavis_color--olive-2": "90,102,46",&#13;
+        "--now-datavis_color--olive-3": "108,123,55",&#13;
+        "--now-datavis_color--olive-4": "125,142,62",&#13;
+        "--now-datavis_color--olive-5": "143,162,73",&#13;
+        "--now-datavis_color--olive-6": "159,175,100",&#13;
+        "--now-datavis_color--olive-7": "176,189,127",&#13;
+        "--now-datavis_color--olive-8": "193,203,154",&#13;
+        "--now-datavis_color--olive-9": "210,217,181",&#13;
+        "--now-datavis_color--olive-10": "226,231,208",&#13;
+        "--now-datavis_color--orange-0": "94,56,28",&#13;
+        "--now-datavis_color--orange-1": "122,71,36",&#13;
+        "--now-datavis_color--orange-2": "149,88,45",&#13;
+        "--now-datavis_color--orange-3": "177,104,53",&#13;
+        "--now-datavis_color--orange-4": "207,123,63",&#13;
+        "--now-datavis_color--orange-5": "235,137,71",&#13;
+        "--now-datavis_color--orange-6": "238,154,99",&#13;
+        "--now-datavis_color--orange-7": "241,172,126",&#13;
+        "--now-datavis_color--orange-8": "244,190,153",&#13;
+        "--now-datavis_color--orange-9": "247,209,182",&#13;
+        "--now-datavis_color--orange-10": "250,226,209",&#13;
+        "--now-datavis_color--pink-0": "88,34,88",&#13;
+        "--now-datavis_color--pink-1": "114,44,114",&#13;
+        "--now-datavis_color--pink-2": "140,54,140",&#13;
+        "--now-datavis_color--pink-3": "165,64,165",&#13;
+        "--now-datavis_color--pink-4": "191,74,191",&#13;
+        "--now-datavis_color--pink-5": "217,84,217",&#13;
+        "--now-datavis_color--pink-6": "224,108,224",&#13;
+        "--now-datavis_color--pink-7": "228,134,228",&#13;
+        "--now-datavis_color--pink-8": "235,162,235",&#13;
+        "--now-datavis_color--pink-9": "240,188,240",&#13;
+        "--now-datavis_color--pink-10": "246,213,246",&#13;
+        "--now-datavis_color--purple-0": "38,38,75",&#13;
+        "--now-datavis_color--purple-1": "50,50,98",&#13;
+        "--now-datavis_color--purple-2": "60,60,119",&#13;
+        "--now-datavis_color--purple-3": "73,72,142",&#13;
+        "--now-datavis_color--purple-4": "85,84,166",&#13;
+        "--now-datavis_color--purple-5": "95,93,187",&#13;
+        "--now-datavis_color--purple-6": "120,118,198",&#13;
+        "--now-datavis_color--purple-7": "145,144,208",&#13;
+        "--now-datavis_color--purple-8": "166,165,217",&#13;
+        "--now-datavis_color--purple-9": "190,190,228",&#13;
+        "--now-datavis_color--purple-10": "216,216,238",&#13;
+        "--now-datavis_color--red-0": "88,34,34",&#13;
+        "--now-datavis_color--red-1": "114,44,44",&#13;
+        "--now-datavis_color--red-2": "140,54,54",&#13;
+        "--now-datavis_color--red-3": "165,64,66",&#13;
+        "--now-datavis_color--red-4": "191,74,76",&#13;
+        "--now-datavis_color--red-5": "217,84,84",&#13;
+        "--now-datavis_color--red-6": "224,108,110",&#13;
+        "--now-datavis_color--red-7": "228,134,135",&#13;
+        "--now-datavis_color--red-8": "235,162,164",&#13;
+        "--now-datavis_color--red-9": "240,188,188",&#13;
+        "--now-datavis_color--red-10": "246,213,214",&#13;
+        "--now-datavis_color--teal-0": "30,82,71",&#13;
+        "--now-datavis_color--teal-1": "40,108,93",&#13;
+        "--now-datavis_color--teal-2": "50,134,116",&#13;
+        "--now-datavis_color--teal-3": "58,161,139",&#13;
+        "--now-datavis_color--teal-4": "66,184,158",&#13;
+        "--now-datavis_color--teal-5": "77,209,180",&#13;
+        "--now-datavis_color--teal-6": "105,216,192",&#13;
+        "--now-datavis_color--teal-7": "129,223,202",&#13;
+        "--now-datavis_color--teal-8": "158,230,214",&#13;
+        "--now-datavis_color--teal-9": "182,237,225",&#13;
+        "--now-datavis_color--teal-10": "210,244,236",&#13;
+        "--now-datavis_color--violet-0": "65,38,75",&#13;
+        "--now-datavis_color--violet-1": "85,50,98",&#13;
+        "--now-datavis_color--violet-2": "103,60,119",&#13;
+        "--now-datavis_color--violet-3": "124,72,142",&#13;
+        "--now-datavis_color--violet-4": "144,84,166",&#13;
+        "--now-datavis_color--violet-5": "162,93,187",&#13;
+        "--now-datavis_color--violet-6": "177,118,198",&#13;
+        "--now-datavis_color--violet-7": "191,144,208",&#13;
+        "--now-datavis_color--violet-8": "203,165,217",&#13;
+        "--now-datavis_color--violet-9": "218,190,228",&#13;
+        "--now-datavis_color--violet-10": "232,216,238",&#13;
+        "--now-datavis_color--yellow-0": "102,69,0",&#13;
+        "--now-datavis_color--yellow-1": "133,89,0",&#13;
+        "--now-datavis_color--yellow-2": "163,110,0",&#13;
+        "--now-datavis_color--yellow-3": "194,131,0",&#13;
+        "--now-datavis_color--yellow-4": "224,151,0",&#13;
+        "--now-datavis_color--yellow-5": "255,172,0",&#13;
+        "--now-datavis_color--yellow-6": "255,185,41",&#13;
+        "--now-datavis_color--yellow-7": "255,199,82",&#13;
+        "--now-datavis_color--yellow-8": "255,212,122",&#13;
+        "--now-datavis_color--yellow-9": "255,225,163",&#13;
+        "--now-datavis_color--yellow-10": "255,238,204",&#13;
+        "--now-datavis_color--yellow-green-0": "74,86,16",&#13;
+        "--now-datavis_color--yellow-green-1": "95,111,21",&#13;
+        "--now-datavis_color--yellow-green-2": "119,137,26",&#13;
+        "--now-datavis_color--yellow-green-3": "139,163,31",&#13;
+        "--now-datavis_color--yellow-green-4": "163,188,36",&#13;
+        "--now-datavis_color--yellow-green-5": "185,214,41",&#13;
+        "--now-datavis_color--yellow-green-6": "194,219,72",&#13;
+        "--now-datavis_color--yellow-green-7": "206,226,105",&#13;
+        "--now-datavis_color--yellow-green-8": "214,231,136",&#13;
+        "--now-datavis_color--yellow-green-9": "227,238,170",&#13;
+        "--now-datavis_color--yellow-green-10": "238,245,204",&#13;
+&#13;
+        "--now-datavis_color--qualitative-0": "--now-datavis_color--blue-5",&#13;
+        "--now-datavis_color--qualitative-1": "--now-datavis_color--orange-5",&#13;
+        "--now-datavis_color--qualitative-2": "--now-datavis_color--purple-8",&#13;
+        "--now-datavis_color--qualitative-3": "--now-datavis_color--pink-7",&#13;
+        "--now-datavis_color--qualitative-4": "--now-datavis_color--green-6",&#13;
+        "--now-datavis_color--qualitative-5": "--now-datavis_color--violet-7",&#13;
+        "--now-datavis_color--qualitative-7": "--now-datavis_color--red-7",&#13;
+        "--now-datavis_color--qualitative-8": "--now-datavis_color--brown-6",&#13;
+        "--now-datavis_color--qualitative-9": "--now-datavis_color--teal-5",&#13;
+        "--now-datavis_color--qualitative-11": "--now-datavis_color--blue-8",&#13;
+        "--now-datavis_color--qualitative-12": "--now-datavis_color--orange-6",&#13;
+        "--now-datavis_color--qualitative-13": "--now-datavis_color--purple-9",&#13;
+        "--now-datavis_color--qualitative-14": "--now-datavis_color--pink-8",&#13;
+        "--now-datavis_color--qualitative-15": "--now-datavis_color--green-7",&#13;
+        "--now-datavis_color--qualitative-16": "--now-datavis_color--violet-8",&#13;
+        "--now-datavis_color--qualitative-18": "--now-datavis_color--red-8",&#13;
+        "--now-datavis_color--qualitative-19": "--now-datavis_color--brown-7",&#13;
+        "--now-datavis_color--qualitative-20": "--now-datavis_color--teal-9",&#13;
+        "--now-datavis_color--qualitative-21": "--now-datavis_color--yellow-green-7",&#13;
+        "--now-datavis_color--qualitative-22": "--now-datavis_color--blue-6",&#13;
+        "--now-datavis_color--qualitative-23": "--now-datavis_color--orange-7",&#13;
+        "--now-datavis_color--qualitative-24": "--now-datavis_color--purple-10",&#13;
+        "--now-datavis_color--qualitative-25": "--now-datavis_color--pink-9",&#13;
+        "--now-datavis_color--qualitative-26": "--now-datavis_color--green-8",&#13;
+        "--now-datavis_color--qualitative-27": "--now-datavis_color--violet-9",&#13;
+        "--now-datavis_color--qualitative-29": "--now-datavis_color--red-9",&#13;
+        "--now-datavis_color--qualitative-30": "--now-datavis_color--brown-8",&#13;
+        "--now-datavis_color--qualitative-32": "--now-datavis_color--yellow-green-8"&#13;
+    }&#13;
+}</style><sys_class_name>sys_ux_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-23 13:10:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c3dc2656c31a0e1073b47405e401318b</sys_id><sys_mod_count>32</sys_mod_count><sys_name>Vega</sys_name><sys_overrides/><sys_package display_value="Vega Theme" source="x_515030_vega">7c41aa92c3d60e1073b47405e4013125</sys_package><sys_policy/><sys_scope display_value="Vega Theme">7c41aa92c3d60e1073b47405e4013125</sys_scope><sys_update_name>sys_ux_style_c3dc2656c31a0e1073b47405e401318b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-23 13:43:34</sys_updated_on><type>variant</type></sys_ux_style></record_update>]]></payload>
+<payload_hash>614569976</payload_hash>
+<remote_update_set display_value="Vega Theme 1.0">3f457edec31a0e1073b47405e4013154</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-05-23 13:47:26</sys_created_on>
+<sys_id>fb457edec31a0e1073b47405e4013155</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18fa5b157e70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-05-23 13:47:26</sys_updated_on>
+<table/>
+<target_name>Vega</target_name>
+<type>UX Style</type>
+<update_domain>global</update_domain>
+<update_guid>4f643edee41a0e10241b4034aa2c3aeb</update_guid>
+<update_guid_history>4f643edee41a0e10241b4034aa2c3aeb:614569976,a254f2deba1a0e101853feb160748361:1027450655,bd443a9e6e1a0e10f60043a4836f6f50:-1261628128,00e33a9eca1a0e1073b408c4dd03adcc:954453520,acc3be9e101a0e10a6b6e6b2b18c7ce0:26728673,f5a3fa9e6d1a0e101bf518a018be6000:1586306872,ec733a9e511a0e1036a3a34b2b5a5d44:1557824650,fd53ba5eb71a0e1008bc3a5ee050cca6:809616972,d043be5e8f1a0e10f07c40e09fda4b41:43769220,3223be5ee71a0e10313df959e4ea8c0b:1999790930,e6f236da0a1a0e10847d1523257c059f:468095426,22e2ba5e001a0e10eef3f08199e3a28a:2140263818,01d27e1e041a0e10255995be5278732d:-1063000551,0c527e1e731a0e107e291a5e701f1d37:-1253487725,bc22b29a411a0e10aee4882747f58c4d:-777763612,dab1feda2c1a0e10d35002a7b69fda21:1664648079,49a1fa9a9c1a0e10278f499000c207d0:1409909006,3071fe9a6f1a0e10101a3fbff1c340c4:-2114248127,7961fe9a431a0e1099174b72f2949ac0:-1192020573,410136da641a0e1060a740579d1541dc:1638721,e1e0369ab01a0e1064b0663fa5f5e787:1508029281,9cc0369a891a0e10890dce5dbd034b2f:-1049359743,5120f29aaf1a0e106173dae0fb9e22eb:726006689,cf00b65a1d1a0e10bf4279e567abca00:2102603200,b9ff229a781a0e103e07d5c5fb44f66b:1918906179,eccf2e5a9e1a0e10bd6a7e70e1d12d23:1481577400,f18f225aee1a0e102116c0583f291802:110905409,8d2fea1add1a0e10df544538247abbd2:-1894410234,93eeea1acc1a0e106caf97151299e662:-868146630,9e9e6e96851a0e100fa7c1a72021af02:1835922994,d44ea696491a0e1007f9947960f77dbd:-1768591558,b83eee962f1a0e10a4e1fbffae52eee9:-1432483991,530eaad6021a0e10076f97d273acfc54:-1768591558,4aeda696dd1a0e1019c99375235cc233:2033515068,b98d2a96a51a0e10c5c145ca442e0d7c:-188389517,527da696971a0e108a61725bec02ea98:-1689172640,8bdc26569f1a0e10a3675e80e24d368c:-188389517</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
